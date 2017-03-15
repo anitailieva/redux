@@ -1,0 +1,24 @@
+{
+  "name": "ski-day-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/babel-node ./src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitailieva/redux.git"
+  },
+  "author": "Anita Ilieva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anitailieva/redux/issues"
+  },
+  "homepage": "https://github.com/anitailieva/redux#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-stage-0": "^6.22.0"
+  }
+}
